@@ -15,7 +15,7 @@ The purpose of this project is to create an analysis off the NYC bikesharing dat
 
 Next we created a visualization to show trips by weekday for each hour. This chart shows that the most popular time for travel was around 8 am and also 5 and 6 pm. From this we can infer that many people are using this bike sharing program in NYC to commute to work. 
 
- ![](Resources/TripsbyWeekdayforEachHour.PNG)
+ ![](Resources/TripbyWeekdayforEachHour.PNG)
 
  Next we broke out this visualization by gender. Her we can see that females were more across the board when checking out bikes whereas males checked out bikes between 8 am and 5 pm. This shows us males are more likley to bike to work than females.  Weekends also showed moderate usage for both females and males. 
  
