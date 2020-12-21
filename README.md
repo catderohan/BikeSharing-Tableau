@@ -35,7 +35,7 @@ Lastly, we created a visualization to analyze user trips by gender. Here we coul
 ![](Resources/UserTripsbyGender.PNG)
 
 ## Summary
-Two other visualizations that would be good to see would be an analysis of age/gender by user and a breakdown of user/gender by day AND hour. This would help further show us the demographic of consumers vs subscribers and also show an additional breakdown of when each user type/gender rented bikes.
+Two additional visualizations to perform would be an analysis of age/gender by user and a breakdown of user/gender by day AND hour. The first visualization would help further show us the demographic of consumers vs subscribers. The second visualizatoin would help show an additional breakdown of user types of when and what day was most popular by gender to rent bikes.
 
 Using these charts, we can infer that a large portion of this bike sharing program is used by males in NYC that commute to and from work. Over 65% of rides were by males and over 75% of rides were by subscribers. There was a significant amount of rides as well that were on the weekends from the customer segment, that we can assume were tourists. 
 
