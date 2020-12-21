@@ -45,6 +45,7 @@ In Des Moines, less than 10% of people don't own cars and the average household 
 
 Knowing this information, if a bike sharing company did extend to Des Moines, I'd suggest changing the business model to not focus on commuters but tourists.  Des Moines has around 14 million visits from tourists a year. NYC has over 60 million. Even with 14 million, a bike sharing company could make profit if focusing purely on tourists and bike locations around the more popular tourist spots.  
 
+[Link to Tableau Bike Ride Analysis Story]: (https://public.tableau.com/profile/catherine.de.rohan#!/vizhome/module14updated12_17/BikeSharingAnalysis?publish=yes)
 
 Resources:
 
