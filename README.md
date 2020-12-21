@@ -35,6 +35,8 @@ Lastly, we created a visualization to analyze user trips by gender. Here we coul
 ![](Resources/UserTripsbyGender.PNG)
 
 ## Summary
+Two other visualizations that would be good to see would be an analysis of age/gender by user and a breakdown of user/gender by day AND hour. This would help further show us the demographic of consumers vs subscribers and also show an additional breakdown of when each user type/gender rented bikes.
+
 Using these charts, we can infer that a large portion of this bike sharing program is used by males in NYC that commute to and from work. Over 65% of rides were by males and over 75% of rides were by subscribers. There was a significant amount of rides as well that were on the weekends from the customer segment, that we can assume were tourists. 
 
 Using both these facts, next steps would be to look at Des Moines, Iowa demographics. First, I'd look to see the percent of males in Des Moines. Next I'd research if Des Moines had a strong public transportation system. Most people in NYC don't have cars and use public transportion to get to and from work. This has a large impact on the bike sharing program in NYC as it seems many males were using the bikes to commute to and from work as subscribers. If most people in Des Moines have cars, they would not need to ride a bike to and from work.  Lastly, I'd research to see how many tourists visited Des Moines, Iowa. If Des Moines is a heavy tourist spot or had sections were tourists visited frequently, then a bike sharing program with stations in specific parts of Des Moines could be successful. 
