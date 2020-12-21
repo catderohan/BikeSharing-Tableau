@@ -4,7 +4,17 @@
 ## Overview of the Analysis
 The purpose of this project is to create an analysis off the NYC bikesharing data to convince investors that a bike sharing program in Des Moines is a solid business proposal. We can use the NYC bikesharing data to create visualizations to analyze the data and see if this business model would work in Des Moines, Iowa. Visualizations and analysis include length of time bikes are checked out for all riders and genders, number of bike trips for all riders/genders for each hour and day of week, and number of bike trips for each type of user and gender for each day of the week. Using this data, we can look at Des Moines demographics and see if this business model would work in this city. 
 
-### Results
+## Results
+
+Previously, in the module we looked at the percentage of bike rides by gender. Here we see that 65% of bike rides were from males.
+
+![](Resources/GenderBreakdown.PNG)
+
+We also looked at the perecentage of subscribers vs commuters. This shows over 75% of riders are subscribers. 
+
+ ![](Resources/CustomerBreakdown.PNG)
+
+
  The first visualization we created was to show the length of time that bikes are checked out for all rides. We can see the most popular trip duration time is 5 hours. 
  
  ![](Resources/CheckoutTimes.PNG)
@@ -25,7 +35,7 @@ Lastly, we created a visualization to analyze user trips by gender. Here we coul
 
 ![](Resources/UserTripsbyGender.PNG)
 
-### Summary
+## Summary
 Using these charts, we can infer that a large portion of this bike sharing program is used by males in NYC that commute to and from work. Over 65% of rides were by males and over 75% of rides were by subscribers. There was a significant amount of rides as well that were on the weekends from the customer segment, that we can assume were tourists. 
 
 Using both these facts, next steps would be to look at Des Moines, Iowa demographics. First, I'd look to see the percent of males in Des Moines. Next I'd research if Des Moines had a strong public transportation system. Most people in NYC don't have cars and use public transportion to get to and from work. This has a large impact on the bike sharing program in NYC as it seems many males were using the bikes to commute to and from work as subscribers. If most people in Des Moines have cars, they would not need to ride a bike to and from work.  Lastly, I'd research to see how many tourists visited Des Moines, Iowa. If Des Moines is a heavy tourist spot or had sections were tourists visited frequently, then a bike sharing program with stations in specific parts of Des Moines could be successful. 
