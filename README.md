@@ -6,16 +6,15 @@ The purpose of this project is to create an analysis off the NYC bikesharing dat
 
 ## Results
 
-Previously, in the module we looked at the percentage of bike rides by gender. Here we see that 65% of bike rides were from males.
+First we looked at the percentage of bike rides by gender. Here we see that 65% of bike rides were from males.
 
 ![](Resources/GenderBreakdown.PNG)
 
-We also looked at the perecentage of subscribers vs commuters. This shows over 75% of riders are subscribers. 
+We also looked at the perecentage of subscribers vs consumers. This shows over 75% of riders are subscribers. 
 
  ![](Resources/CustomerBreakdown.PNG)
 
-
- The first visualization we created was to show the length of time that bikes are checked out for all rides. We can see the most popular trip duration time is 5 hours. 
+The next visualization we created was to show the length of time that bikes are checked out for all rides. We can see the most popular trip duration time is 5 hours. 
  
  ![](Resources/CheckoutTimes.PNG)
  
