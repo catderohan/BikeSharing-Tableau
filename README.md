@@ -5,6 +5,16 @@
 The purpose of this project is to create an analysis off the NYC bikesharing data to convince investors that a bike sharing program in Des Moines is a solid business proposal. We can use the NYC bikesharing data to create visualizations to analyze the data and see if this business model would work in Des Moines, Iowa. Visualizations and analysis include length of time bikes are checked out for all riders and genders, number of bike trips for all riders/genders for each hour and day of week, and number of bike trips for each type of user and gender for each day of the week. Using this data, we can look at Des Moines demographics and see if this business model would work in this city. 
 
 ## Results
+
+Previously, in the module we looked at the percentage of bike rides by gender. Here we see that 65% of bike rides were from males.
+
+![](Resources/GenderBreakdown.PNG)
+
+We also looked at the perecentage of subscribers vs commuters. This shows over 75% of riders are subscribers. 
+
+ ![](Resources/CustomerBreakdown.PNG)
+
+
  The first visualization we created was to show the length of time that bikes are checked out for all rides. We can see the most popular trip duration time is 5 hours. 
  
  ![](Resources/CheckoutTimes.PNG)
