@@ -18,7 +18,7 @@ The next visualization we created was to show the length of time that bikes are 
  
  ![](Resources/CheckoutTimes.PNG)
  
- Next we broke this visualization out by gender. We can see that the most popular trip duration for males was between 4 and 6 hours. The most popular trip duration for females was between 4 and 7 hours.  Unknown was consistent across the board.  
+ Then we broke this visualization out by gender. We can see that the most popular trip duration for males was between 4 and 6 hours. The most popular trip duration for females was between 4 and 7 hours.  Unknown was consistent across the board.  
  
  ![](Resources/CheckoutTimesbyGender.PNG)
 
@@ -26,7 +26,7 @@ Next we created a visualization to show trips by weekday for each hour. This cha
 
  ![](Resources/TripbyWeekdayforEachHour.PNG)
 
- Next we broke out this visualization by gender. Here we can see that males checked out bikes between 8 am and 5 pm showing males are using bikes to commute to work whereas females were more even throughout the day. This shows us males are more likely to bike to work than females.  Weekends also showed moderate usage for both females and males. 
+ Then we broke out this visualization by gender. Here we can see that males checked out bikes between 8 am and 5 pm showing males are using bikes to commute to work whereas females were more even throughout the day. This shows us males are more likely to bike to work than females.  Weekends also showed moderate usage for both females and males. 
  
 ![](Resources/TripsbyGender.PNG)
 
